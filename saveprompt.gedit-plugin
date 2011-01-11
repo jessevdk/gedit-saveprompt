@@ -1,0 +1,10 @@
+[Gedit Plugin]
+Loader=python
+Module=saveprompt
+IAge=2
+Name=Ignore Save Prompt
+Description=Ignore save prompt for modified but empty documents
+Icon=gedit-plugin
+Authors=Jesse van den Kieboom <jessevdk@gnome.org>
+Copyright=Copyright © 2011 Jesse van den Kieboom
+Website=http://www.gedit.org

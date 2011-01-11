@@ -1,0 +1,6 @@
+A very simple plugin that set all empty documents to be unmodified so that when
+you close gedit it does not prompt to save those documents.
+
+Install:
+	* mkdir -p $HOME/.gnome2/gedit/plugins
+	* cp saveprompt.py saveprompt.gedit-plugin $HOME/.gnome2/gedit/plugins/
